@@ -1,0 +1,7 @@
+{
+  "name": "print_journal_apis",
+  "version": "1.0.0",
+  "description": "设备指纹日志后台api",
+  "title": "设备指纹日志接口测试文档",
+  "url" : "http://localhost:3000/journal"
+}
